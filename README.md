@@ -12,6 +12,8 @@ Fast, simple, reliable.  HikariCP is a "zero-overhead" production ready JDBC con
 &nbsp;&nbsp;&nbsp;<sup>**"Simplicity is prerequisite for reliability."**<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- *Edsger Dijkstra*</sup>
 
+
+
 ----------------------------------------------------
 ### Index
 * [Artifacts](#artifacts)
